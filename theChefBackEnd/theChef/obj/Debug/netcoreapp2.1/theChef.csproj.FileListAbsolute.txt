@@ -1,0 +1,14 @@
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\bin\Debug\netcoreapp2.1\theChef.deps.json
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\bin\Debug\netcoreapp2.1\theChef.runtimeconfig.json
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\bin\Debug\netcoreapp2.1\theChef.runtimeconfig.dev.json
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\bin\Debug\netcoreapp2.1\theChef.dll
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\bin\Debug\netcoreapp2.1\theChef.pdb
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.csprojAssemblyReference.cache
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.csproj.CoreCompileInputs.cache
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.RazorAssemblyInfo.cache
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.RazorAssemblyInfo.cs
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.AssemblyInfoInputs.cache
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.AssemblyInfo.cs
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.RazorTargetAssemblyInfo.cache
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.dll
+H:\klasorlerim\eğitim\Software\MVC(.Net)\1) Projeler\angular\theChef\theChef\obj\Debug\netcoreapp2.1\theChef.pdb
